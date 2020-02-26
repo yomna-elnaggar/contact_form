@@ -1,0 +1,37 @@
+
+.continer {
+	width: 50%;
+	margin: auto;
+	font-family: "arial";
+}
+form{
+
+	padding:22px;
+	border: 2px solid #eedec4; 
+	border-radius: 8px;
+}
+label{
+	display: inline-block;
+	width: 110px;
+}
+input{
+	height: 30px;
+	width: 300px;
+	margin: 7px;
+	border-radius: 8px;
+	border-color: #ed9d1c;
+}
+textarea{
+	height: 90px;
+	width: 300px;
+	margin: 7px;
+	border-radius: 8px;
+	border-color: #ed9d1c;
+}
+button{
+	display: block;
+	margin-left:122px;
+	margin-top:22px;
+	border-radius: 8px;
+	border-color: #ed9d1c;
+}
